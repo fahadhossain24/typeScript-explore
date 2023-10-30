@@ -127,3 +127,4 @@ const respons = {
 const newToples = ['helo', 55, { a: 1 }];
 newToples[0] = 'gelo';
 console.log(newToples);
+//# sourceMappingURL=index.js.map

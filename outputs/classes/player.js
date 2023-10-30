@@ -9,3 +9,4 @@ export class Player {
         return `${this.name} is plying from ${this.country}`;
     }
 }
+//# sourceMappingURL=player.js.map
